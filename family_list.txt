@@ -1,0 +1,12 @@
+Ism: Jasurbek
+Familiya: Maxammadjonov
+Yosh: 19
+Yashash joyi: Fargona
+Qiziqishlari: tehnika
+
+Ism: Ibrohimjon
+Familiya: Maxammadjonov
+Yosh: 23
+Yashash joyi: Fargona
+Qiziqishlari: kompyuter
+
